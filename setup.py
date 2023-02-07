@@ -50,6 +50,7 @@ setup(
         "numpy>=1.18.0",
         "cloudpickle>=1.2.0",
         "importlib_metadata>=4.8.1; python_version < '3.8'",
+        "setuptools==65.5.0"
     ],
     extras_require=extras,
     package_data={
